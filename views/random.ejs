@@ -7,6 +7,13 @@
   <title>Random</title>
 </head>
 <body>
-  <h1>Your random number is:<%= Math.floor(Math.random() *10) + 1%></h1>
+  <h1>Your random number is <%= num %></h1>
+  <% if (num % 2 === 0) { %>
+    <h3>Your number is even</h3>
+    <% } else {%>
+    <h3>Your number is odd</h3>
+    <% } %>
+  <h3><%= num%2===0 ? "Even" : "Odd"%></h3>
+  <a href="/">Back</a>
 </body>
 </html>

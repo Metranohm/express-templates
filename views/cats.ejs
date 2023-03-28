@@ -4,10 +4,14 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About</title>
+  <title>All Cats</title>
 </head>
 <body>
-  <h1>It's the about page</h1>
-  <a href="/">Back</a>
+  <h2>All the Cats</h2>
+  <ul>
+    <% for (let cat of cats) { %>
+    <li><%= cat %></li>
+    <% } %>
+  </ul>
 </body>
 </html>

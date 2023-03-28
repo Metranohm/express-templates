@@ -1,0 +1,56 @@
+{
+  "soccer": {
+    "subscribers": 2500000,
+    "description": "A community for football/soccer enthusiasts.",
+    "posts": [
+      {
+        "title": "Lionel Messi scores hat-trick in PSG win",
+        "author": "user123"
+      },
+      {
+        "title": "UEFA Champions League quarterfinal draw results",
+        "author": "user456"
+      },
+      {
+        "title": "Arsenal sacks manager after poor run of form",
+        "author": "user789"
+      }
+    ]
+  },
+  "cats": {
+    "subscribers": 1000000,
+    "description": "A subreddit for cat lovers to share pictures and stories about their feline friends.",
+    "posts": [
+      {
+        "title": "My cat's new favorite spot to sleep",
+        "author": "user456"
+      },
+      {
+        "title": "Funny cat video compilation",
+        "author": "user789"
+      },
+      {
+        "title": "Adopted this cute little kitten yesterday",
+        "author": "user123"
+      }
+    ]
+  },
+  "chickens": {
+    "subscribers": 50000,
+    "description": "A subreddit for chicken keepers and enthusiasts.",
+    "posts": [
+      {
+        "title": "My chickens won first prize at the county fair",
+        "author": "user123"
+      },
+      {
+        "title": "How to prevent chickens from pecking each other",
+        "author": "user456"
+      },
+      {
+        "title": "Best chicken breeds for beginners",
+        "author": "user789"
+      }
+    ]
+  }
+}

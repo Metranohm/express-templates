@@ -1,5 +1,6 @@
 {
   "soccer": {
+    "name": "soccer",
     "subscribers": 2500000,
     "description": "A community for football/soccer enthusiasts.",
     "posts": [
@@ -18,6 +19,7 @@
     ]
   },
   "cats": {
+    "name": "cats",
     "subscribers": 1000000,
     "description": "A subreddit for cat lovers to share pictures and stories about their feline friends.",
     "posts": [
@@ -36,6 +38,7 @@
     ]
   },
   "chickens": {
+    "name": "chickens",
     "subscribers": 50000,
     "description": "A subreddit for chicken keepers and enthusiasts.",
     "posts": [
